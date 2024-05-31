@@ -4,8 +4,6 @@
 
 This project focuses on detecting fraudulent online payment transactions using machine learning techniques. By analyzing transaction data, we aim to identify patterns and features that indicate fraudulent behavior, ultimately enabling the creation of models that can predict and flag fraudulent transactions in real-time.
 
-[![Fraud Detection]()](https://in.images.search.yahoo.com/search/images;_ylt=AwrtkLJRU1pmH3wb7em9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANSQTFfVUIxQlR4eVNrQ1FNY2ZCUlRBBG5fcnNsdAMwBG5fc3VnZwMxMARvcmlnaW4DaW4uaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzIwBHF1ZXJ5A29ubGluZSUyMHBheW1lbnQlMjBmcmF1ZAR0X3N0bXADMTcxNzE5NTYyOQ--?p=online+payment+fraud&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210IN714G0#id=43&iurl=https%3A%2F%2Fd3tqqxrx8st2s6.cloudfront.net%2Fimg%2Fblogs%2Fcredit-card-fraud-in-broward-broward-criminal-attorney1.jpg&action=click)
-
 ## Introduction
 
 Online payment fraud is a significant concern in today's digital economy. Fraudulent activities not only result in financial losses for businesses but also erode customer trust. This project leverages machine learning algorithms to detect and prevent fraud in online payment systems.
